@@ -1,2 +1,2 @@
 # my-first-project
-My first job in the GitHub space
+I welcome you! Today I became a part of the community and created my first repository.
